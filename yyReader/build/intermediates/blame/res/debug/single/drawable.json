@@ -1,0 +1,398 @@
+[
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\pager_mode.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\pager_mode.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\share.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\share.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\maker_selecter.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\maker_selecter.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\message_black.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\message_black.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\sreach.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\sreach.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\reader_bg2.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\reader_bg2.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq_off.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\umeng_socialize_qq_off.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\reader_bg4.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\reader_bg4.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\buyer_white.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\buyer_white.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\font_bg1.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\font_bg1.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\font_color3.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\font_color3.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\reader_bg3.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\reader_bg3.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\font_size_add.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\font_size_add.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_copy_material.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_copy_material.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_selectall_material.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_selectall_material.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\light_low.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\light_low.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\font_bg3.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\font_bg3.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\pager_mode_no_sel.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\pager_mode_no_sel.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\buyer_selecter.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\buyer_selecter.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\pager_mode_sel.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\pager_mode_sel.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_share_material.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_share_material.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_on_mtrl.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_radio_on_mtrl.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wechat_gray.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\umeng_socialize_wechat_gray.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_checkbox_unchecked_mtrl.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\light_line.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\light_line.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\other.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\other.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\light_height.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\light_height.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qq_on.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\umeng_socialize_qq_on.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone_off.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\umeng_socialize_qzone_off.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\adaptation.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\adaptation.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\font_color2.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\font_color2.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\message_white.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\message_white.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\pager_mode_selecter.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\pager_mode_selecter.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle_gray.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\umeng_socialize_wxcircle_gray.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\buyer_black.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\buyer_black.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\font_size_sub.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\font_size_sub.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_checkbox_checked_mtrl.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_checkbox_checked_mtrl.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\make_sel.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\make_sel.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\font_bg.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\font_bg.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\reader_bg1.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\reader_bg1.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\font_bg4.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\font_bg4.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\catalogue_sel.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\catalogue_sel.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\mark_cal.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\mark_cal.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_thumb.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\seekbar_thumb.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\k.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\k.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\font_sel.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\font_sel.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\mark_no_sel.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\mark_no_sel.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\catalogue_no_sel.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\catalogue_no_sel.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\moon_mode.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\moon_mode.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_off_mtrl.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_radio_off_mtrl.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_qzone_on.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\umeng_socialize_qzone_on.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\font_bg2.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\font_bg2.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\eye_light.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\eye_light.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\message_selecter.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\message_selecter.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\font_color1.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\font_color1.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\award.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\award.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\catalogue_selecter.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\catalogue_selecter.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_paste_material.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_paste_material.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_cut_material.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ic_menu_cut_material.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\font_color4.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\font_color4.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\back_white.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\back_white.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\prepurchase.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\prepurchase.png"
+    },
+    {
+        "merged": "F:\\StudioProject\\ttReader\\yyReader\\build\\intermediates\\res\\merged\\debug\\drawable\\add_maker.png",
+        "source": "F:\\StudioProject\\ttReader\\yyReader\\src\\main\\res\\drawable\\add_maker.png"
+    }
+]

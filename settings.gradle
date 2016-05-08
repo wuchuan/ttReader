@@ -1,0 +1,2 @@
+include ':slidingmenu_library', ':social_sdk_library_project'
+include ':yyReader'

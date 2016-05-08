@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/like_one"
+        android:layout_width="50dp"
+        android:layout_height="50dp" >
+
+        <com.zqgame.yyreader.widget.CircleImageView
+            android:id="@+id/like_one_iv"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" 
+            android:src="@drawable/ic_launcher">
+        </com.zqgame.yyreader.widget.CircleImageView>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/like_two"
+        android:layout_width="50dp"
+        android:layout_height="50dp" >
+
+        <com.zqgame.yyreader.widget.CircleImageView
+            android:id="@+id/like_two_iv"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+        </com.zqgame.yyreader.widget.CircleImageView>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/like_tree"
+        android:layout_width="50dp"
+        android:layout_height="50dp" >
+
+        <com.zqgame.yyreader.widget.CircleImageView
+            android:id="@+id/like_tree_iv"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+        </com.zqgame.yyreader.widget.CircleImageView>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/like_four"
+        android:layout_width="50dp"
+        android:layout_height="50dp" >
+
+        <com.zqgame.yyreader.widget.CircleImageView
+            android:id="@+id/like_four_iv"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+        </com.zqgame.yyreader.widget.CircleImageView>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/like_five"
+        android:layout_width="50dp"
+        android:layout_height="50dp" >
+
+        <com.zqgame.yyreader.widget.CircleImageView
+            android:id="@+id/like_five_iv"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+        </com.zqgame.yyreader.widget.CircleImageView>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/like_six"
+        android:layout_width="50dp"
+        android:layout_height="50dp" >
+
+        <com.zqgame.yyreader.widget.CircleImageView
+            android:id="@+id/like_six_iv"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+        </com.zqgame.yyreader.widget.CircleImageView>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/like_seven"
+        android:layout_width="50dp"
+        android:layout_height="50dp" >
+
+        <com.zqgame.yyreader.widget.CircleImageView
+            android:id="@+id/like_seven_iv"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+        </com.zqgame.yyreader.widget.CircleImageView>
+    </RelativeLayout>
+
+</RelativeLayout>

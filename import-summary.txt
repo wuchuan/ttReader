@@ -1,0 +1,104 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From slidingmenu_library:
+* LICENSE.txt
+* library.iml
+* pom.xml
+From yyReader:
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+
+Replaced Libraries with Dependencies:
+-------------------------------------
+The importer recognized the following library projects as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the source files in your project were of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the library replacement in the import wizard and try
+again:
+
+appcompat-v7 => [com.android.support:appcompat-v7:23.2.0]
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In slidingmenu_library:
+* AndroidManifest.xml => slidingmenu_library\src\main\AndroidManifest.xml
+* assets\ => slidingmenu_library\src\main\assets
+* res\ => slidingmenu_library\src\main\res\
+* src\ => slidingmenu_library\src\main\java\
+In yyReader:
+* AndroidManifest.xml => yyReader\src\main\AndroidManifest.xml
+* assets\ => yyReader\src\main\assets
+* libs\arm64-v8a\libweibosdkcore.so => yyReader\src\main\jniLibs\arm64-v8a\libweibosdkcore.so
+* libs\armeabi-v7a\libweibosdkcore.so => yyReader\src\main\jniLibs\armeabi-v7a\libweibosdkcore.so
+* libs\armeabi\libweibosdkcore.so => yyReader\src\main\jniLibs\armeabi\libweibosdkcore.so
+* libs\Baidu_OAuth_SDK_Android_G-2.0.0.0.jar => yyReader\libs\Baidu_OAuth_SDK_Android_G-2.0.0.0.jar
+* libs\Baidu_PCS_SDK_Android-2.0.0.0.jar => yyReader\libs\Baidu_PCS_SDK_Android-2.0.0.0.jar
+* libs\fastjson.jar => yyReader\libs\fastjson.jar
+* libs\httpmime-4.1.3.jar => yyReader\libs\httpmime-4.1.3.jar
+* libs\httpmime-4.2.jar => yyReader\libs\httpmime-4.2.jar
+* libs\mips64\libweibosdkcore.so => yyReader\src\main\jniLibs\mips64\libweibosdkcore.so
+* libs\mips\libweibosdkcore.so => yyReader\src\main\jniLibs\mips\libweibosdkcore.so
+* libs\mta-sdk-1.6.2.jar => yyReader\libs\mta-sdk-1.6.2.jar
+* libs\open_sdk_r5509.jar => yyReader\libs\open_sdk_r5509.jar
+* libs\SocialSDK_QQZone_3.jar => yyReader\libs\SocialSDK_QQZone_3.jar
+* libs\SocialSDK_Sina.jar => yyReader\libs\SocialSDK_Sina.jar
+* libs\SocialSDK_WeiXin_1.jar => yyReader\libs\SocialSDK_WeiXin_1.jar
+* libs\SocialSDK_WeiXin_2.jar => yyReader\libs\SocialSDK_WeiXin_2.jar
+* libs\umeng_social_sdk.jar => yyReader\libs\umeng_social_sdk.jar
+* libs\weiboSDKCore_3.1.2.jar => yyReader\libs\weiboSDKCore_3.1.2.jar
+* libs\x86\libweibosdkcore.so => yyReader\src\main\jniLibs\x86\libweibosdkcore.so
+* libs\x86_64\libweibosdkcore.so => yyReader\src\main\jniLibs\x86_64\libweibosdkcore.so
+* libs\xUtils-2.6.14.jar => yyReader\libs\xUtils-2.6.14.jar
+* lint.xml => yyReader\lint.xml
+* res\ => yyReader\src\main\res\
+* src\ => yyReader\src\main\java\
+* k.PNG => k.png
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\StudioProject\ttReader\yyReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="F:\StudioProject\ttReader\yyReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.0_50cba6186b447d3a633cabf34c6126ae5c576317\classes.dex" />
+    </item>
+    <item
+        jar="F:\StudioProject\ttReader\yyReader\libs\fastjson.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="24ee7ff19cce098b34c33c4e5806fd12d0c2bf23">
+        <dex dex="F:\StudioProject\ttReader\yyReader\build\intermediates\transforms\dex\debug\folders\1000\2\fastjson_e15c9408efbe8e5a1688d97c35ccf1794f841e06\classes.dex" />
+    </item>
+    <item
+        jar="F:\StudioProject\ttReader\yyReader\libs\SocialSDK_Sina.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f790b5d3cca3cadd38d02db2233a7f7bd575bfb5">
+        <dex dex="F:\StudioProject\ttReader\yyReader\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_Sina_e3de92848790857beccf92cb4e67566328be791d\classes.dex" />
+    </item>
+    <item
+        jar="F:\StudioProject\ttReader\yyReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="F:\StudioProject\ttReader\yyReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.0_d6dd2bdf24a1009e46cec8e6b80835037b07e362\classes.dex" />
+    </item>
+    <item
+        jar="F:\StudioProject\ttReader\yyReader\libs\open_sdk_r5509.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="538ea8fb21ea76e8cb424598ac38127cb3344d79">
+        <dex dex="F:\StudioProject\ttReader\yyReader\build\intermediates\transforms\dex\debug\folders\1000\2\open_sdk_r5509_a0edb7939a8566eaf25f8ceca35ac1f691c43b9e\classes.dex" />
+    </item>
+    <item
+        jar="F:\StudioProject\ttReader\yyReader\libs\SocialSDK_QQZone_3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7ac1915c2d2037f34cc0c4ebbc8a352f4c724886">
+        <dex dex="F:\StudioProject\ttReader\yyReader\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_QQZone_3_58f6a92044390c9baaff339c7684e7801f9ac4da\classes.dex" />
+    </item>
+    <item
+        jar="F:\StudioProject\ttReader\yyReader\libs\mta-sdk-1.6.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="F:\StudioProject\ttReader\yyReader\build\intermediates\transforms\dex\debug\folders\1000\2\mta-sdk-1.6.2_d44f8c295f9e2110281f26b631fd43e6c5e5dae0\classes.dex" />
+    </item>
+    <item
+        jar="F:\StudioProject\ttReader\yyReader\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="690cd9230c5978a51c2f56ece82bb9c8098a7b36">
+        <dex dex="F:\StudioProject\ttReader\yyReader\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_WeiXin_2_0e386a427a360b226b6c367a4c1c365010e2b986\classes.dex" />
+    </item>
+    <item
+        jar="F:\StudioProject\ttReader\yyReader\libs\httpmime-4.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6acbb2ba813e406f946d33dc14150e24c00b2c57">
+        <dex dex="F:\StudioProject\ttReader\yyReader\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.2_f5540d8fa59d8fa26d4ef2006b2b5932c3632f66\classes.dex" />
+    </item>
+    <item
+        jar="F:\StudioProject\ttReader\yyReader\libs\Baidu_PCS_SDK_Android-2.0.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6c5d76d762f3da37f48a930c751504eeef22a3db">
+        <dex dex="F:\StudioProject\ttReader\yyReader\build\intermediates\transforms\dex\debug\folders\1000\2\Baidu_PCS_SDK_Android-2.0.0.0_b46ade058276736b0ec5d1b5d69b430a5fc31591\classes.dex" />
+    </item>
+    <item
+        jar="F:\StudioProject\ttReader\yyReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="F:\StudioProject\ttReader\yyReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.0_5543bc687851c7913bbcfb5490c62273acd0dab7\classes.dex" />
+    </item>
+    <item
+        jar="F:\StudioProject\ttReader\yyReader\libs\xUtils-2.6.14.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="F:\StudioProject\ttReader\yyReader\build\intermediates\transforms\dex\debug\folders\1000\2\xUtils-2.6.14_2f977b29d71568a0ea699be1a81319db8348228d\classes.dex" />
+    </item>
+    <item
+        jar="F:\StudioProject\ttReader\yyReader\libs\umeng_social_sdk.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="64910264e28d2501f8286527ea2ce997ef5d3a84">
+        <dex dex="F:\StudioProject\ttReader\yyReader\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_sdk_0fc33d280d3c73a86a8c37936eb31261c8e81cfd\classes.dex" />
+    </item>
+    <item
+        jar="F:\StudioProject\ttReader\yyReader\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="F:\StudioProject\ttReader\yyReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.0_3364390b4d513a7039a952284251a90244bb70dc\classes.dex" />
+    </item>
+    <item
+        jar="F:\StudioProject\ttReader\yyReader\libs\SocialSDK_WeiXin_1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="47f4993168154fa73377d7470b9f6887d48a8023">
+        <dex dex="F:\StudioProject\ttReader\yyReader\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_WeiXin_1_e7b8e59a3c28d4b6ce4049cc16d7bb54029cdc9a\classes.dex" />
+    </item>
+    <item
+        jar="F:\StudioProject\ttReader\yyReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="afb53e54d40eda5af977bdff0b4f7904d657d270">
+        <dex dex="F:\StudioProject\ttReader\yyReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3b1ca05c1b2239ada737b1cd15bb2925e156cdf9\classes.dex" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="F:\StudioProject\ttReader\yyReader\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.0_3d2c0bcc95ca7691dc08539814a4109cb0431c98\classes.dex" />
+    </item>
+    <item
+        jar="F:\StudioProject\ttReader\yyReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5d0eda324be59f2b939d8beb7a7b440b8a5127dd">
+        <dex dex="F:\StudioProject\ttReader\yyReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4311719c1639c0d05c5d3a63807f1653ee6ae3a1\classes.dex" />
+    </item>
+    <item
+        jar="F:\StudioProject\ttReader\yyReader\libs\weiboSDKCore_3.1.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1c0bfcddc15de1e8a90ff166da0b9abe011346af">
+        <dex dex="F:\StudioProject\ttReader\yyReader\build\intermediates\transforms\dex\debug\folders\1000\2\weiboSDKCore_3.1.2_750d873bc813ce795ad2c664fcad680018060fcc\classes.dex" />
+    </item>
+    <item
+        jar="F:\StudioProject\ttReader\yyReader\libs\Baidu_OAuth_SDK_Android_G-2.0.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3adf3f60d5df4f51f7d89727a9ae196e7124c36c">
+        <dex dex="F:\StudioProject\ttReader\yyReader\build\intermediates\transforms\dex\debug\folders\1000\2\Baidu_OAuth_SDK_Android_G-2.0.0.0_b1d1b98f2049927ec769f2a6f502707e819d821a\classes.dex" />
+    </item>
+    <item
+        jar="F:\StudioProject\ttReader\yyReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="F:\StudioProject\ttReader\yyReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.0_f99f18fd237abc59f214c150452aca4720e83c68\classes.dex" />
+    </item>
+
+</items>

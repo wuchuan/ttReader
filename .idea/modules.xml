@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/slidingmenu_library/slidingmenu_library.iml" filepath="$PROJECT_DIR$/slidingmenu_library/slidingmenu_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/social_sdk_library_project/social_sdk_library_project.iml" filepath="$PROJECT_DIR$/social_sdk_library_project/social_sdk_library_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ttReader.iml" filepath="$PROJECT_DIR$/ttReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yyReader/yyReader.iml" filepath="$PROJECT_DIR$/yyReader/yyReader.iml" />
+    </modules>
+  </component>
+</project>

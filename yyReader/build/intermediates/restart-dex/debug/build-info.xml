@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="4470592839688" >
+
+    <task
+        name="javac"
+        duration="847" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="660" />
+    <task
+        name="verifier"
+        duration="199" />
+
+    <artifact
+        location="F:\StudioProject\ttReader\yyReader\build\outputs\apk\yyReader-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="4470592839688" >
+        <artifact
+            location="F:\StudioProject\ttReader\yyReader\build\outputs\apk\yyReader-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
